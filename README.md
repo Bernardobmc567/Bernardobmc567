@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Bernardobmc567 😁
 
-![Descrição do GIF](URL-ou-caminho-do-GIF)
+![Descrição do GIF](https://github.com/Bernardobmc567/Bernardobmc567/blob/main/Gif.Shadow.mp4)
 
  <div>
    <a href="https://github.com/Bernardobmc567">
