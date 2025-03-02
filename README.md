@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao perfil do Bernardobmc567 😁
-
+<img align="right" src="https://komarev.com/ghpvc/?username=bernardobmc567&color=red"><br>
 <div align="center">
 <a href="https://github.com/bernardobmc567">
     <img align="center" src="shadow.gif" width="500">
