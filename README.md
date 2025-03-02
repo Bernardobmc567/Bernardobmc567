@@ -1,6 +1,8 @@
 ## Bem-vindo(a) ao perfil do Bernardobmc567 😁
 
-<img scr="Gif shadow.gif">
+<a href="https://github.com/bernardobmc567">
+    <img align="center" src="shadow.gif" width="500">
+  </a>
 
  <div>
    <a href="https://github.com/Bernardobmc567">
